@@ -21,7 +21,7 @@ theme: gaia
 - h, j, k , l
 - H, M, L
 - CTRL + d ; CTRL + b
-- [zz](zz) => Center
+- zz => Center
 - gg, G
 - [Demo]
 ---
@@ -38,7 +38,7 @@ theme: gaia
 ## Basics - Grammar
 - operator => d, c
 - count => 5
-- motion => w, b, paragraph
+- motion => w, b, paragraph, s, ", b, {, t
 ---
 ## Basics - Modes
 - INSERT (i/A/I/o/O)

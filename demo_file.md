@@ -16,12 +16,17 @@ But this sentence is even longer. WOW! This is great;
 # Grammar
 
 This is a sentence in a ruby file... Are you stupid? Why would you do that?
+Wow a sentence (wow so great).
 
 class Vim
   def initialize
     @this = :not_so_great
   end
 end
+
+<html>
+  Testing
+</html>
 
 
 # Marks
