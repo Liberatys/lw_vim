@@ -9,7 +9,7 @@ theme: gaia
 ---
 ## Intro
 - [20 Minutes] Basics / Some features
-- [50 Minutes] You use vim on some examples
+- [50 Minutes] You use vim
 - [5 Minutes] Configuration
 - [5 Minutes] Neovim
 - [10 Minutes] End / My Config / QA
@@ -17,17 +17,11 @@ theme: gaia
 ## HELP!
 * **:help [identifier]**
 ---
-## Basics - Index
-- Navigation
-- Grammar
-- Modes
-- How to quit
----
 ## Basics - Navigation
 - h, j, k , l
 - H, M, L
 - CTRL + d ; CTRL + b
-- ZZ => Center
+- [zz](zz) => Center
 - gg, G
 - [Demo]
 ---
@@ -62,11 +56,10 @@ theme: gaia
 * :x!
 ---
 
-### Basics History/Save
+### Basics - History/Save
 - u [undo]
 - CTRL + r [redo]
 - :w [save]
-
 ---
 ## Basics - Keybindings
 
@@ -83,6 +76,9 @@ vmap <leader>r :tabn
 - f [find]
 ---
 ## Vim Hogwards
+
+**Some features I would consider more than basic**
+
 ---
 ## Marks
 
@@ -139,6 +135,7 @@ vmap <leader>r :tabn
 ---
 ## Visual Block Mode
 - Well it's visual
+
 ---
 
 ## Its time!
@@ -156,6 +153,7 @@ DO IT YOURSELF!
 - Decoupled ui from 'core'
 - Threading
 - Lua integration
+- Terminal
 ---
 ## My Config
 - https://github.com/Liberatys/dotfiles

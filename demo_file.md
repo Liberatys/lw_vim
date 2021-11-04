@@ -15,7 +15,6 @@ But this sentence is even longer. WOW! This is great;
 
 # Grammar
 
-
 This is a sentence in a ruby file... Are you stupid? Why would you do that?
 
 class Vim
@@ -58,6 +57,14 @@ Array.wrap([ value ]) # value
 
 (hint for Nick) => qq yw yss[ yssb I Array.wrap A # p
 
+# Search and ReplaceA
+
+Test to replace [nick].
+Test to replace [nick].
+[nick] to replace [nick].
+Test to replace [peter]
+
+
 # Sorting
 
 ## Normal
@@ -84,8 +91,6 @@ Oliver
 Josua
 Oliver
 
-
-
 ## Reverse
 
 Nick
@@ -104,8 +109,7 @@ Janis (3)
 Oliver (2)
 Josua (4)
 
-
-## Visual block mode
+# Visual block mode
 
 This is a block
 This is a block
